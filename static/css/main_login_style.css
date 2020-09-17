@@ -3,12 +3,12 @@ body{
     padding: 6px; 
     background-image: url(../back_ground5.jpg);
     background-size: cover;
-    background-attachment:fixed;    
-}
-/* -webkit-background-size: cover;
+    background-attachment:fixed;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover; */
-    /* background-size: cover; */
+    -o-background-size: cover;   
+}
+
 label{
     font-size: 18px;
 }
